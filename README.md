@@ -25,4 +25,3 @@ The app can:
 
 ---
 
-## 📂 Project Structure
